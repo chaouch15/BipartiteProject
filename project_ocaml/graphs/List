@@ -1,0 +1,34 @@
+%employees
+e wissal 
+e sirine 
+e marie 
+e ishaac
+e thomas  
+
+%jobs
+
+j engineer 
+j doctor 
+j singer 
+j dancer 
+
+
+%voeux 
+v wissal dancer 
+v wissal singer 
+v marie engineer 
+v thomas singer 
+v ishaac engineer 
+v ishaac doctor
+v sirine singer 
+
+
+
+
+
+
+
+
+
+
+
